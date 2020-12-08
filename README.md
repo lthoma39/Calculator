@@ -6,4 +6,4 @@ This is my first Flutter project
 
 Created a simple calculator using Flutter/Dart. 
 
-
+<img src=http://g.recordit.co/5J5oTmQsQp.gif width=200><br>
